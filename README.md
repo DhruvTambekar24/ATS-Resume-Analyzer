@@ -62,9 +62,11 @@ streamlit run app.py
  ---
  
 ## 🎥 Usage
- - Open the React app in your browser (default: http://localhost:3000).
- - Provide a video input or connect to a live webcam feed.
- - View the real-time count of people on the dashboard.
+ - Open the app in your browser (default: http://localhost:8501).
+ - Enter the job description in the text area.
+ - Upload your resume in PDF format.
+ - Click the Analyze Resume button.
+ - Review the match score, missing keywords, and improvement suggestions.
 
 ---
 
